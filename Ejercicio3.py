@@ -8,7 +8,7 @@ print(df.head(10))
 
 #Calcular y mostrar la desviación estándar de las calificaciones.
 
-print(df[' Calificacion'].std())
+print(df['Calificacion'].std())
 
 
 #Mostrar el número de estudiantes por cada edad utilizando un gráfico de barras.
